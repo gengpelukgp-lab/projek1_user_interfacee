@@ -38,4 +38,4 @@
         android:text="CountUp"
         android:onClick="CountUp" />
 
-</LinearLayout>
+</LinearLayout> p
